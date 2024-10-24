@@ -13,10 +13,11 @@
 ## System Design
   - ### 통신 시나리오
     ![image](https://github.com/user-attachments/assets/129ea41c-d587-4dc2-8a9d-279a8669fe5b)
+
     Autoencoder을 분석하고 이를 활용하여 무선 통신 환경의 실험을 준비하였다.
     ### 시스템 모델
     ![그림2](https://github.com/user-attachments/assets/b2faf2a8-9231-4bc2-86ec-af8a70906294)
-    송신기와 수신기 사이의 채널을 Autoencoder의 환경에 적용하여 무선 통신 환경을 재현하는 것을 목표한다.
+    송신기와 수신기 사이의 채널을 Autoencoder의 환경에 적용하여 무선 통신 환경을 재현하였다.
 ## Case Study
   - ### Description
   
