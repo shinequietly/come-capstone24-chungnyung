@@ -12,8 +12,8 @@
   
 ## System Design
   - ### System Requirements
-    ![image](https://github.com/user-attachments/assets/129ea41c-d587-4dc2-8a9d-279a8669fe5b)
-
+    ![image](https://github.com/user-attachments/assets/129ea41c-d587-4dc2-8a9d-279a8669fe5b) 
+    ###
     ![그림2](https://github.com/user-attachments/assets/b2faf2a8-9231-4bc2-86ec-af8a70906294)
     
 ## Case Study
