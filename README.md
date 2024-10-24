@@ -11,9 +11,9 @@
   - 따라서, 차세대 위성통신 시스템의 적용을 위해 데이터 변조 방식을 개선하는 것이 매우 중요하다. 이를 통해 통신 시스템의 성능을 향상시키고, 장거리 통신에서도 안정적인 데이터 전송이 가능하도록 한다. 
   
 ## System Design
-  - ### System Requirements
+  - ### 통신 시나리오
     ![image](https://github.com/user-attachments/assets/129ea41c-d587-4dc2-8a9d-279a8669fe5b) 
-    ###
+    ### 시스템 모델
     ![그림2](https://github.com/user-attachments/assets/b2faf2a8-9231-4bc2-86ec-af8a70906294)
     
 ## Case Study
